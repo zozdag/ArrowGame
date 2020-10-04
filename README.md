@@ -10,6 +10,6 @@
 <h3> Pictures </h3>
 
 <p align="left">
-  <img src="https://github.com/zozdag/ArrowGame/blob/main/p1.png?raw=true" width="250">
-  <img src="https://github.com/zozdag/ArrowGame/blob/main/p2.png?raw=true" width="250">
+  <img src="https://github.com/zozdag/ArrowGame/blob/main/p1.png?raw=true" width="500">
+  <img src="https://github.com/zozdag/ArrowGame/blob/main/p2.png?raw=true" width="500">
 </p>
